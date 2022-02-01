@@ -89,14 +89,14 @@
       <div class="container">
         <div class="row mb-4 align-items-center">
           <div class="col-md-6" data-aos="fade-up">
-
+			<!--
             <h2>Mugs</h2>
            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores illo, id recusandae molestias
                     illum unde pariatur, enim tempora.</p>
 
           </div>
-
-
+			-->
+			<h2>Pieces</h2>
         </div>
       </div>
 
@@ -111,6 +111,7 @@
                 <h2 class="h2">Cosmo Mug</h3>
 
                 <div class="mb-5">
+				  <p></p>
 				  <p>A stunning piece for a breakfast table. 💛🌸💘</p>
 					<p>
 					350ml 10cm X 9cm 
